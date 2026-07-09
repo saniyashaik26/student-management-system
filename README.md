@@ -15,3 +15,5 @@ python student_management_system.py
 2. Run the application using the following command:
    ```bash
    python student_management_system.py
+## Project Output
+![Project Screenshot](Student management system.png)
